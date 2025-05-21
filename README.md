@@ -1,3 +1,4 @@
+![Screenshot 2025-05-21 092546](https://github.com/user-attachments/assets/b96fe0a3-067e-41f8-b86b-b833dac1b0ac)
 # Blinkit-SQL-Project# 🛒 Blinkit SQL Sales Analysis Project
 
 This project demonstrates SQL proficiency by analyzing Blinkit-like grocery delivery data. It includes database creation, data insertion, and over 50 analytical queries.
